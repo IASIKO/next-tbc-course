@@ -1,7 +1,4 @@
-// import Link from "next/link";
 import { blogListData } from "@/data/BlogListData";
-// import BlogList from "../Blog/BlogList";
-// import Button from "../UI/Button";
 import bg from "../../public/Assets/images/bg_1.jpg";
 import aboutImg from "../../public/Assets/images/about-image.jpg";
 import ProductsList from "../Products/ProductsList";
